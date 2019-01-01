@@ -13,7 +13,7 @@ authors: greatghoul
 # token
 # token should be separated by '#'
 # example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
-token: e4f695573620d9375f07e9988b2a62d015bfddae
+token: 2#750a68e6e9031992b389ddf08519ff224db1089
 
 # posts per page
 perpage: 10
