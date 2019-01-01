@@ -1,0 +1,30 @@
+# site title
+title: Ask and Learn
+
+# user name or organization name
+user: greatghoul
+
+# issue repository
+repository: issues
+
+# multi-author
+authors: greatghoul
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: 2c3ceddb2a86d513e9c562eea5f18fe7ae06ea68
+
+# posts per page
+perpage: 10
+
+
+# advance config
+
+# organization repository (?)
+organization: false
+
+# post order
+# order by create time" or "update time"
+# 'UPDATED_AT' or 'CREATED_AT'
+order: 'CREATED_AT'
