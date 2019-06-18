@@ -76,3 +76,4 @@ Chrome 扩展
 
 - [PrettyCode](https://github.com/greatghoul/PrettyCode) - 基于 [google-code-prettify](http://code.google.com/p/google-code-prettify/) 的 Wordpress 语法高亮插件 (`停止维护`)
 - [iReader](https://github.com/greatghoul/iReader) - 由 HTA(HTML Application) 编写的纯文本小说阅读器，运行在 Windows 平台下 (`停止维护`)
+- [个人博客](https://github.com/greatghoul/blog-archived) - 我 2016 年及以前写的博客文章归档
