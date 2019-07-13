@@ -66,6 +66,12 @@ Chrome 扩展
 - [Direct Link](https://github.com/GDG-Xian/crx-direct-link) - 修改 Google 搜索结果，点击时跳过网址中转
 - [Hilite Me](https://github.com/GDG-Xian/crx-hiliteme) - 给任意富文本编辑器添加语法高亮的 Chrome 扩展
 
+快捷指令
+
+- [傻葵举牌](https://sharecuts.cn/shortcut/2515) - 根据输入的文字，生成本间向日葵的举牌图片。
+- [鸡你太美](https://sharecuts.cn/shortcut/1805) - 选择一张照片，制作鸡你太美图片
+- [ThoughtWorks 技术雷达](https://sharecuts.cn/shortcut/1294) - 快速查询 ThoughtWorks 技术雷达
+
 油猴脚本
 
 - [V2EX 归档助手](https://github.com/greatghoul/sibi/raw/master/tools/save-v2ex.user.js) - 自动合并 V2EX 帖子分页，并导入为 PDF 归档，参考[我为 V2EX 写了个 PDF 导出工具，方便保存撕逼帖子](https://github.com/greatghoul/profile/issues/17)
