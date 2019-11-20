@@ -40,7 +40,7 @@
 网站和服务
 
 - [捷径社区](https://sharecuts.cn/) - 在谜底科技参与创建的网站，分享 iOS 捷径（快捷指令）的社区
-- [Awesome Pigtails](http://pigtails.moe) - 一个收集双马尾照片和插画的地方
+- [Awesome Pigtails](http://pigtails.moe) - 双马尾导航站
 - [一早一晚远程工作者社区](https://yizaoyiwan.com/) - 在 DeepDevelop 时参与创建的远程工作者交流的社区，网站已经停止运营，但微信群依旧活跃
 - [Treation](https://treation.com/) - 在 DeepDevelop 时参与创建的一个在线协作电子表格应用 (`停止维护`)
 - [Remarks Slide](https://github.com/greatghoul/remarks) - 基于 [RemarkJS](https://github.com/gnab/remark "一种 Markdown 格式的幻灯片工具")
