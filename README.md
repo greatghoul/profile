@@ -16,11 +16,12 @@
 * 微信 (`greatghoul`) - 日常最多使用，欢迎勾搭
 * 邮箱 (`greatghoul@gmail.com`) - 我是邮箱重度用户，欢迎给我写信
 
-## 我加入的团队/组织
+## 我参与过的的优秀团队/组织
 
 - [GDG Xi'an](http://gdgxian.org) - 我是西安 GDG 技术社区的组织者之一
-- [谜底科技](http://www.miidii.tech/) - 我目前远程工作的团队，很有活力，我们的产品有 Price Tag (已下架)，[捷径社区](http://sharecuts.cn)，[软件数字商店](https://h5.youzan.com/v2/showcase/homepage?alias=XqLRcsuYN3)等。
-- [DeepDevelop](http://deepdevelop.com/) - 曾经加入的远程工作团队，留下了很多难忘的回忆
+- [Triosky](http://www.triosky.com/) - 新加坡一个做酒店/民宿的预订/管理的公司，我有远程为他们提供一些技术服务，产品是 [Airhost](https://cloud.airhost.co/)
+- [谜底科技](http://www.miidii.tech/) - DeepDevelop 老同事61创建的很有活力的公司，产品有 Price Tag (已下架)，[捷径社区](http://sharecuts.cn)，[软件数字商店](https://h5.youzan.com/v2/showcase/homepage?alias=XqLRcsuYN3)，方块小子，Offscreen 等。
+- [DeepDevelop](http://deepdevelop.com/) - 曾经加入的远程工作团队，留下了很多难忘的回忆，[一早一晚](https://3cwork.com/)这个网站就是从这个团队开始的。
 
 ## 我的利器
 
@@ -40,7 +41,7 @@
 网站和服务
 
 - [捷径社区](https://sharecuts.cn/) - 在谜底科技参与创建的网站，分享 iOS 捷径（快捷指令）的社区
-- [Awesome Pigtails](http://pigtails.moe) - 双马尾导航站
+- [电鸭社区](https://eleduck.com/) - 一早一晚重新改版后的全新网站
 - [一早一晚远程工作者社区](https://yizaoyiwan.com/) - 在 DeepDevelop 时参与创建的远程工作者交流的社区，网站已经停止运营，但微信群依旧活跃
 - [Treation](https://treation.com/) - 在 DeepDevelop 时参与创建的一个在线协作电子表格应用 (`停止维护`)
 - [Remarks Slide](https://github.com/greatghoul/remarks) - 基于 [RemarkJS](https://github.com/gnab/remark "一种 Markdown 格式的幻灯片工具")
@@ -50,6 +51,7 @@
 小程序
 
 - [用好](https://minapp.com/miniapp/8386/) - 分享新鲜应用资讯和 iOS 每日限免降价，抽奖，应用投票等
+- [臭爸爸伴读](https://minapp.com/miniapp/12213/) - 自制的给女儿讲睡前故事的小程序，主要特性是随机故事，暗色模式
 
 Awesome List
 
@@ -78,8 +80,3 @@ Chrome 扩展
 - [Google Translate Plus](https://openuserjs.org/scripts/greatghoul/Google_Translate_Plus) - 保存 Google 翻译的语言组合，方便快速切换
 - [HabitRPG Shortcut for New Todo](https://openuserjs.org/scripts/greatghoul/HabitRPG_Shortcut_for_New_Todo) - 给 [HabitiRPG](http://habitica.com) 添加快捷键 `n` 快速打开新增任务窗口
 
-其它
-
-- [PrettyCode](https://github.com/greatghoul/PrettyCode) - 基于 [google-code-prettify](http://code.google.com/p/google-code-prettify/) 的 Wordpress 语法高亮插件 (`停止维护`)
-- [iReader](https://github.com/greatghoul/iReader) - 由 HTA(HTML Application) 编写的纯文本小说阅读器，运行在 Windows 平台下 (`停止维护`)
-- [个人博客](https://github.com/greatghoul/blog-archived) - 我 2016 年及以前写的博客文章归档
