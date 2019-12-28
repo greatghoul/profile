@@ -40,13 +40,20 @@
 
 网站和服务
 
-- [捷径社区](https://sharecuts.cn/) - 在谜底科技参与创建的网站，分享 iOS 捷径（快捷指令）的社区
-- [电鸭社区](https://eleduck.com/) - 一早一晚重新改版后的全新网站
-- [一早一晚远程工作者社区](https://yizaoyiwan.com/) - 在 DeepDevelop 时参与创建的远程工作者交流的社区，网站已经停止运营，但微信群依旧活跃
-- [Treation](https://treation.com/) - 在 DeepDevelop 时参与创建的一个在线协作电子表格应用 (`停止维护`)
-- [Remarks Slide](https://github.com/greatghoul/remarks) - 基于 [RemarkJS](https://github.com/gnab/remark "一种 Markdown 格式的幻灯片工具")
-  的幻灯片播放器，可直接读取 Github/Gist 上的 Remark 源文件（`停止维护`）
-- [DWZ](https://github.com/greatghoul/dwz) - 基于百度短网站 API 的缩短网站 Bookmarklet (`停止维护`)
+<details>
+  <summary><a href="https://sharecuts.cn/">捷径社区</a> - 在谜底科技参与创建的网站，分享 iOS 捷径（快捷指令）的社区</summary>
+  <img src="https://user-assets.sxlcdn.com/images/419693/Fp_9gGAs33FZnxwBKqDMi2Wh6Amh.PNG?imageMogr2/strip/auto-orient/thumbnail/500x1000%3E/quality/90!/format/png" />
+</details>
+
+<details>
+  <summary><a href="https://eleduck.com/">电鸭社区</a> - 交流远程工作和自由职业相关话题的社区（原一早一晚）</summary>
+  <img src="https://s2.ax1x.com/2019/12/28/lmBxqe.md.png" />
+</details>
+
+<details>
+  <summary><a href="https://treation.com/">Treation</a> - 在 DeepDevelop 时参与创建的一个在线协作电子表格应用 (`停止维护`)</summary>
+  <img src="https://o05g5zevc.qnssl.com/image/home/pic3.png" />
+</details>
 
 小程序
 
