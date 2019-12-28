@@ -47,7 +47,7 @@
 
 <details>
   <summary><a href="https://eleduck.com/">电鸭社区</a> - 交流远程工作和自由职业相关话题的社区（原一早一晚）</summary>
-  <img src="https://s2.ax1x.com/2019/12/28/lmBxqe.md.png" />
+  <img src="https://s2.ax1x.com/2019/12/28/lmsGE4.png" alt="lmsGE4.png" border="0" />
 </details>
 
 <details>
